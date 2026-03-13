@@ -49,3 +49,6 @@ body{
 @media (max-width: 768px) {
     nav {flex-direction: column;}
 }
+.content a{
+    color:#FFD500;
+}
