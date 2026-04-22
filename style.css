@@ -46,7 +46,7 @@ body{
     padding: 10px;
     margin-top: auto
 }
-@media screen only and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
     nav {flex-direction: column;}
      .picture{
          width: 100%;
