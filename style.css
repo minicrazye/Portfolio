@@ -10,6 +10,14 @@ body{
  flex-direction: column;
  min-height: 100vh;
 }
+#picture{
+    width: 500px;
+    height: 500px;
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+}
+    
 .wrapper{
     flex: auto;
     width: 100%;
@@ -59,11 +67,3 @@ body{
 .content a{
     color:#FFD500;
 }
-#picture{
-    width: 500px;
-    height: 500px;
-    display: block;
-    max-width: 100%;
-    max-height: 100%;
-}
-    
