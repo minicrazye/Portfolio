@@ -53,8 +53,8 @@ body{
     color:#FFD500;
 }
 .picture{
-    width: 100%;
-    height: auto;
+    width: 500px;
+    height: 500px;
     display: block;
     max-width: 500px;
     max-height: 500px;
